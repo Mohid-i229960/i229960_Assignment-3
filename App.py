@@ -29,6 +29,7 @@ st.markdown("### A simple ML app to predict financial returns using Linear Regre
 st.image("https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif", width=400)
 
 
+
 # Initialize session state
 if "data_loaded" not in st.session_state:
     st.session_state.data_loaded = False
