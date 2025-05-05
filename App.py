@@ -13,22 +13,20 @@ st.set_page_config(page_title="Finance Forecast", layout="centered")
 # Custom Styling
 st.markdown("""
     <style>
-        .main { background-color: #ffffff; }
+        .main { background-color: #f7f9fc; }
         .stButton button {
-            background-color: #0066cc;
+            background-color: #008080;
             color: white;
             font-weight: bold;
-            border-radius: 10px;
+            border-radius: 8px;
             padding: 10px 20px;
         }
     </style>
 """, unsafe_allow_html=True)
 
-st.title("📊 Finance Forecast App")
-st.markdown("### A simple ML app to predict financial returns using Linear Regression.")
-st.image("https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif", width=400)
-
-
+st.title("📈 Smart Finance Forecaster")
+st.markdown("### Predict stock returns using Linear Regression with Yahoo Finance data.")
+st.image("https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif", width=450)
 
 # Initialize session state
 if "data_loaded" not in st.session_state:
