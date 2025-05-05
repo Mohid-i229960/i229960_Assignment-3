@@ -18,7 +18,7 @@ Welcome to the Finance Forecast App – a Streamlit-based web application that l
 
 ## 🌐 Live App
 
-[Click to Launch the App on Streamlit](https://finance-forecast-app.streamlit.app)
+[[Click to Launch the App on Streamlit](https://finance-forecast-app.streamlit.app)](https://i229960assignment-3-98cpek5zdvg3vgxgtna4km.streamlit.app/)
 
 ## 📹 Demo Video
 
@@ -26,7 +26,7 @@ Welcome to the Finance Forecast App – a Streamlit-based web application that l
 
 ## 💻 GitHub Repository
 
-[GitHub Repo](https://github.com/yourusername/finance-forecast-app)
+[[GitHub Repo](https://github.com/yourusername/finance-forecast-app)](https://github.com/Mohid-i229960/i229960_Assignment-3/edit/main)
 
 ## 🧠 Technologies Used
 
@@ -36,17 +36,5 @@ Welcome to the Finance Forecast App – a Streamlit-based web application that l
 - Plotly
 - yFinance
 
-## 📢 LinkedIn Post
 
-> I just launched my **Finance Forecast App** using Streamlit and Machine Learning as part of my Programming for Finance course at FAST. 🚀  
-> Built with live stock data from Yahoo Finance, this app predicts returns using Linear Regression.  
-> 🔗 GitHub: [repo link]  
-> 🔗 Streamlit: [app link]  
-> 🎥 Demo: [video link]  
-> Thanks to **Dr. Usama Arshad** for the guidance!  
-> #Finance #MachineLearning #Streamlit #FASTNU #ProgrammingForFinance #Python #LinearRegression
 
----
-
-🏁 Good luck to your friend in showcasing their financial ML skills!
-Would you like a ZIP bundle of these files too?
