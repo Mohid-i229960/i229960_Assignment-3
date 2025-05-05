@@ -26,7 +26,8 @@ st.markdown("""
 
 st.title("📊 Finance Forecast App")
 st.markdown("### A simple ML app to predict financial returns using Linear Regression.")
-st.image("https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDc5MzR2bGhyZnlwY3Fva2hiZ3Z3d3NpdnVncjhjaHNlMGxmbjZ2biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/F1xBJu1MzWxUllMyD3/giphy.gif", width=400)
+st.image("https://media.giphy.com/media/3o6Zt481isNVuQI1l6/giphy.gif", width=400)
+
 
 # Initialize session state
 if "data_loaded" not in st.session_state:
